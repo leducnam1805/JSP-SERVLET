@@ -1,0 +1,58 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ include file="/views/BT1/inc/header.jsp"%>
+			<div class="content">
+				<div class="leftpanel">
+					<%@ include file="/views/BT1/inc/leftbanner.jsp"%>
+				</div>
+				<div class="rightpanel">
+					<div class="rightbody">
+						<h1 class="title">Trung Quá»c Äiá»u thÃªm 17 tÃ u Äáº¿n khu vá»±c giÃ n khoan</h1>
+						<div class="items-new">
+							<div class="new-detail">
+								<p>NgÃ y 17/6, Trung Quá»c duy trÃ¬ sá» tÃ u á» khu vá»±c giÃ n khoan khoáº£ng 136 chiáº¿c, tÄng 77 chiáº¿c so vá»i hÃ´m qua, gá»m 39 tÃ u háº£i cáº£nh, 14 tÃ u váº­n táº£i, gáº§n 20 tÃ u kÃ©o, 58 tÃ u cÃ¡. BÃªn cáº¡nh ÄÃ³ cÃ²n cÃ³ sá»± há» trá»£ cá»§a 5 tÃ u quÃ¢n sá»±.</p>
+								<p>LÃºc 9h36, lá»±c lÆ°á»£ng kiá»m ngÆ° quan sÃ¡t tháº¥y má»t mÃ¡y bay trá»±c thÄng háº¡ cÃ¡nh xuá»ng giÃ n khoan Háº£i DÆ°Æ¡ng 981.</p>
+								<p>á» khoáº£ng cÃ¡ch 9-10 háº£i lÃ½, cÃ¡c tÃ u cháº¥p phÃ¡p Viá»t Nam tiáº¿p tá»¥c tiáº¿p cáº­n giÃ n khoan Äá» tuyÃªn truyá»n, Äáº¥u tranh vÃ  thá»±c thi phÃ¡p luáº­t, Äáº¡i diá»n Cá»¥c Kiá»m ngÆ° cho biáº¿t. CÃ¹ng vá»i ÄÃ³, tÃ u cÃ¡ cá»§a Viá»t Nam váº«n tá» chá»©c thÃ nh nhÃ³m, bÃ¡m sÃ¡t ngÆ° trÆ°á»ng, vá»«a ÄÃ¡nh báº¯t thá»§y sáº£n vá»«a tham gia báº£o vá» chá»§ quyá»n cÃ¡ch giÃ n khoan khoáº£ng 30 - 35 háº£i lÃ½.</p>
+								<p>CÃ¡c tÃ u kiá»m ngÆ°, háº£i cáº£nh, háº£i giÃ¡m vÃ  tÃ u kÃ©o Trung Quá»c ÄÃ£ tiáº¿p cáº­n, vÃ¢y Ã©p, cháº·n hÆ°á»ng cÃ¡c tÃ u kiá»m ngÆ°, cÃ³ lÃºc khoáº£ng cÃ¡ch gáº§n nháº¥t lÃ  30-50 m vÃ  tÄng tá»c Äá» sáºµn sÃ ng ÄÃ¢m va vÃ o tÃ u cá»§a ta</p>
+								<p>BÃªn cáº¡nh ÄÃ³, cÃ¡c tÃ u vá» sáº¯t cá»§a Trung Quá»c ÄÆ°á»£c sá»± há» trá»£ cá»§a tÃ u háº£i cáº£nh sá» hiá»u 46102 dÃ n hÃ ng ngang, ngÄn cháº·n tÃ u cÃ¡ cá»§a Viá»t Nam á» pháº¡m vi cÃ¡ch giÃ n khoan khoáº£ng 30 háº£i lÃ½.</p>
+								<p>Vá» vá» trÃ­ giÃ n khoan, bÃ¡o Thanh NiÃªn ÄÆ°a tin, theo ghi nháº­n cá»§a lá»±c lÆ°á»£ng thá»±c thi phÃ¡p luáº­t Viá»t Nam thÃ¬ Háº£i DÆ°Æ¡ng 981 cÃ³ dáº¥u hiá»u dá»ch chuyá»n khoáº£ng 0,7 háº£i lÃ½.</p>
+								<p>"KhÃ¡c vá»i thÆ°á»ng lá», cÃ¡c tÃ u háº£i cáº£nh, háº£i giÃ¡m, ngÆ° chÃ­nh, tÃ u dá»ch vá»¥ dáº§u khÃ­ tiáº¿n ra ngÄn cáº£n thay Äá»i theo hÆ°á»ng khÃ´ng cá» Äá»nh, cÃ³ lÃºc co cá»¥m sÃ¡t khu vá»±c giÃ n khoan, cÃ³ lÃºc phÃ¢n tÃ¡n ra xa thay vÃ¬ cÃ¡c hoáº¡t Äá»ng tuáº§n lÆ°u thÆ°á»ng nháº­t", theo Thanh NiÃªn.</p>
+							</div>
+						</div>
+						
+						<h2 class="title" style="margin-top:30px;color:#BBB">Tin tá»©c liÃªn quan</h2>
+						<div class="items-new">
+							<ul>
+								<li>
+									<h2>
+										<a href="detail.php?id=1" title="Trung Quá»c Äiá»u thÃªm 17 tÃ u Äáº¿n khu vá»±c giÃ n khoan">Trung Quá»c Äiá»u thÃªm 17 tÃ u Äáº¿n khu vá»±c giÃ n khoan</a>
+									</h2>
+									<div class="item">
+										<a href="detail.php?id=1" title="Trung Quá»c Äiá»u thÃªm 17 tÃ u Äáº¿n khu vá»±c giÃ n khoan"><img src="images/tmp/h1.jpg" alt="Trung Quá»c Äiá»u thÃªm 17 tÃ u Äáº¿n khu vá»±c giÃ n khoan"></a>
+										<p>Äá» báº£o vá» giÃ n khoan, Trung Quá»c ÄÃ£ Äiá»u thÃªm 17 tÃ u cÃ¡c loáº¡i so vá»i hÃ´m trÆ°á»c, sáºµn sÃ ng ÄÃ¢m va vÃ o tÃ u Viá»t Nam.</p>
+										<div class="clr"></div>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="detail.php?id=2" title="Trá»ng tÃ i - váº¿t Äen cá»§a ká»³ World Cup sÃ´i Äá»ng ">Trá»ng tÃ i - váº¿t Äen cá»§a ká»³ World Cup sÃ´i Äá»ng </a>
+									</h2>
+									<div class="item">
+										<a href="detail.php?id=2" title="Trá»ng tÃ i - váº¿t Äen cá»§a ká»³ World Cup sÃ´i Äá»ng "><img src="images/tmp/h2.jpg" alt="Trá»ng tÃ i - váº¿t Äen cá»§a ká»³ World Cup sÃ´i Äá»ng "></a>
+										<p>World Cup 2014 chÆ°a Äi háº¿t lÆ°á»£t Äáº§u vÃ²ng báº£ng nhÆ°ng cÃ¡c trá»ng tÃ i Äáº³ng cáº¥p FIFA ÄÃ£ cÃ³ tá»i bá»n tráº­n bá» chá» trÃ­ch dá»¯ dá»i.</p>
+										<div class="clr"></div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clr"></div>
+			</div>
+			<div class="footer">
+				<p>Trung tÃ¢m ÄÃ o táº¡o Láº­p trÃ¬nh viÃªn VinaEnter EDU</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

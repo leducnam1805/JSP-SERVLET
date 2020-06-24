@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1603530177.index
+81160976.index
+352909734.index
+1131811264.index
+1131811264.index
+284056548.index
+2571037295.index
+2255280738.index
+2860992379.index
+2115385456.index
+2860992379.index
+3360033243.index
+864949953.index
+81160976.index
+3716184045.index

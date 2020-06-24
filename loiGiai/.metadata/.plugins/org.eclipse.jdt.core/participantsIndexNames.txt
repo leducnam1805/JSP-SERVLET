@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2860992379.index
+\baiTap1\src
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\969033977.index
+\baiTap1\src
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\864949953.index
+\baiTap1\src
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2115385456.index
+\baiTap1\src
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3716184045.index
+\baiTap1\src
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\81160976.index
+\baiTap1\src
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4235090114.index
+\baiTap1\src
+E:\java\18_JSP_SERVLET2\baitap\loiGiai\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1131811264.index
+\baiTap1\src

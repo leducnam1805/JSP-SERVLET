@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/jsp; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<div class="container_12">
+	<div class="grid_12">
+		<ul>
+			<li><a href="<%=request.getContextPath()%>/views/BT2/list.jsp">sản phẩm</a></li>
+			<li><a href="<%=request.getContextPath()%>/views/BT2/list.jsp">Danh mục sản phẩm</a></li>
+			<li><a href="<%=request.getContextPath()%>/views/BT2/add.jsp">Giới thiệu</a></li>
+			<li><a href="<%=request.getContextPath()%>/views/BT2/list.jsp">Đơn hàng</a></li>
+			<li><a href="<%=request.getContextPath()%>/views/BT2/list.jsp">Liên hệ</a></li>
+		</ul>
+
+	</div>
+	<!-- End. .grid_12-->
+</div>
+<!-- End. .container_12 -->

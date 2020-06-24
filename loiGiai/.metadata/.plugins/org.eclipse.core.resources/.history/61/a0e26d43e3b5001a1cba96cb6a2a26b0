@@ -1,0 +1,139 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@include file="/views/BT3/inc/header.jsp"%>
+		<div id="main-body">
+			<div class="main-content">
+				<div class="body-left fl">
+					<div class="left-menu">
+						<ul>
+							<li class="parent"><a href="/Toan-canh-Nhat-Ban-c1/">ToÃ n
+									cáº£nh Nháº­t Báº£n</a></li>
+							<li class="parent"><a href="/Tin-tuc-Viet-Nhat-c2/">Tin
+									tá»©c Viá»t - Nháº­t</a></li>
+							<li class="parent"><a href="/Tin-tuc-giai-tri-c3/">Tin
+									tá»©c giáº£i trÃ­</a></li>
+							<li class="parent"><a href="/Du-hoc-Nhat-Ban-c4/">Du
+									há»c Nháº­t Báº£n</a></li>
+						</ul>
+						<div class="clr"></div>
+					</div>
+
+					<div class="support">
+						<p>Há» trá»£ trá»±c tuyáº¿n</p>
+						<div class="yahoo">
+							<ul>
+								<li><a href="ymsgr:sendIM?trandangx"
+									title="Chat with Mr.XuÃ¢n">Mr.XuÃ¢n</a></li>
+								<li><a href="ymsgr:sendIM?itsontran"
+									title="Chat with Mr.SÆ¡n">Mr.SÆ¡n</a></li>
+							</ul>
+							<div class="clr"></div>
+						</div>
+
+						<div class="skype">
+							<ul>
+								<li><a href="Skype:trandangx?chat"
+									title="Chat with Mr.XuÃ¢n">Mr.XuÃ¢n</a></li>
+								<li><a href="Skype:itsontran?chat"
+									title="Chat with Mr.SÆ¡n">Mr.SÆ¡n</a></li>
+							</ul>
+							<div class="clr"></div>
+						</div>
+
+						<div class="orther">
+							<p>
+								Email: <span>vinaenter@gmail.com</span>
+							</p>
+							<p>
+								Sá» Äiá»n thoáº¡i: <span>0903154678</span>
+							</p>
+						</div>
+					</div>
+
+					<div class="advs">
+						<a href="" title=""> <img src="images/qc1.jpg" alt="" />
+						</a> <a href="" title=""> <img src="images/qc2.jpg" alt="" />
+						</a>
+					</div>
+				</div>
+				<div class="body-right fr">
+					<div class="news-block">
+						<h2 class="title-cat">Giá»i thiá»u website thÃ´ng tin vá»
+							Viá»t - Nháº­t</h2>
+						<div class="content-cat1">
+							<div class="content-detail gioithieu">
+								CÃ¡c báº¡n há»c sinh thÃ¢n máº¿n! Báº¡n cÃ³ bao giá» tá»±
+								há»i, báº¯t Äáº§u tá»« khi nÃ o thÃ¬ mong muá»n hiá»u biáº¿t
+								thÃªm tháº­t nhiá»u thÃ´ng tin vá» <font color="#ff0000">Äáº¥t
+								nÆ°á»c Nháº­t Báº£n</font> ÄÆ°á»£c hÃ¬nh thÃ nh trong lÃ²ng báº¡n
+								chÆ°a? CÃ³ thá» lÃ  khi báº¡n bá» nhá»¯ng cuá»n truyá»n
+								tranh vui nhá»n cá»§a Nháº­t Báº£n mÃª hoáº·c? Hay tá»« khi
+								báº¡n xem nhá»¯ng bá» phim hoáº¡t hÃ¬nh, phim truyá»n Nháº­t?
+								Tá»« khi báº¡n láº¯ng nghe nhá»¯ng ca khÃºc ngá»t ngÃ o qua
+								giá»ng ca cá»§a cÃ¡c ca sÄ© Nháº­t Báº£n? Hay nÃ³ báº¯t Äáº§u
+								khi gia ÄÃ¬nh báº¡n mua vá» nhá»¯ng mÃ³n Äá» Äiá»n tá»­
+								cÃ³ xuáº¥t xá»© tá»« xá»© PhÃ¹ tang? CÅ©ng cÃ³ thá» tá»«
+								chiáº¿c xe nhÃ£n hiá»u Nháº­t mÃ  báº¡n Äang sá»­ dá»¥ng
+								háº±ng ngÃ y Äá» Äáº¿n trÆ°á»ng?... Cháº¯c báº¡n sáº½ khÃ³
+								lÃ²ng nháº­n biáº¿t ÄÆ°á»£c Äiá»u ÄÃ³ bá»i tá»« lÃ¢u&nbsp;
+								â <font color="#ff0000">Nháº­t Báº£n </font>â ÄÃ£ trá»
+								nÃªn qÃºa Äá»i quen thuá»c vá»i cuá»c sá»ng cá»§a chÃºng
+								ta, nhá»¯ng Äiá»u ÄÃ³ ÄÃ£ hÃ¬nh thÃ nh trÃªn ná»n táº£ng
+								truyá»n thá»ng vÄn hÃ³a vÃ  ná»n cÃ´ng nghá» cao cá»§a
+								Nháº­t Báº£n .VÃ  háº³n nhá»¯ng ai yÃªu máº¿n nÆ°á»c Nháº­t,
+								yÃªu máº¿n tiáº¿ng Nháº­t Äá»u cÃ³ nhu cáº§u ÄÆ°á»£c tÃ¬m
+								hiá»u vá» Nháº­t Báº£n Äá» thÃªm yÃªu vÃ  thÃªm quÃ½ máº£nh
+								Äáº¥t linh thiÃªng nÃ y. NhÆ°ng trÃªn thá»±c táº¿, chÆ°a cÃ³
+								má»t tÃ i liá»u chÃ­nh thá»©c nÃ o cÃ³ thá» cung cáº¥p Äáº§y
+								Äá»§ thÃ´ng tin vá» Nháº­t Báº£n<br> <img
+									src="images/gioi-thieu.jpg" title="" style="padding: 5px 0px;">
+
+										<a title="" target="_blank" href="/"><font color="#0000ff">
+											<strong>javionline.net</strong> </font> </a> lÃ  website <a title=""
+										href="/"><strong>thÃ´ng tin Viá»t-Nháº­t</strong> </a>
+										ÄÆ°á»£c Äáº§u tÆ° nháº±m giá»i thiá»u má»t hÃ¬nh áº£nh
+										tá»ng quÃ¡t vá» <font color="#ff0000">Äáº¥t nÆ°á»c
+										Nháº­t Báº£n</font>, bao gá»m toÃ n bá» nhá»¯ng gÃ³c cáº¡nh cá»§a
+										Äá»i sá»ng xÃ£ há»i Nháº­t Báº£n tá»« Lá»ch sá»­, Kinh
+										táº¿, VÄn hÃ³a Äáº¿n GiÃ¡o dá»¥c, tá»« Ãm nháº¡c, Äiá»n
+										áº£nh Äáº¿n Thá» thao, hay nhá»¯ng xu hÆ°á»ng thá»i trang
+										má»i nháº¥t, nhá»¯ng tin tá»©c má»i nháº¥t vá» giá»i tráº»
+										Nháº­t Báº£nâ¦ táº¥t cáº£ sáº½ liÃªn tá»¥c ÄÆ°á»£c cáº­p
+										nháº­t vÃ  thÃ´ng tin Äáº§y Äá»§ Äáº¿n cÃ¡c báº¡n. NgoÃ i
+										ra website cÃ²n cÃ³ ráº¥t nhiá»u bÃ i viáº¿t vá» kinh
+										nghiá»m sá»ng, há»c táº­p vÃ  lÃ m viá»c táº¡i Nháº­t
+										Báº£nâ¦cung cáº¥p cho cÃ¡c báº¡n ÄÃ£ Äang vÃ  sáº½ <strong><a
+											title="" href="http://javionline.net">du hoc Nhat Ban</a> </strong>
+										nhá»¯ng Äiá»u thiáº¿t thá»±c nháº¥t, giÃºp báº¡n nhanh
+										chÃ³ng hÃ²a nháº­p vÃ o cuá»c sá»ng vÃ  cÃ³ ÄÆ°á»£c quÃ£ng
+										thá»i gian tuyá»t vá»i nháº¥t táº¡i Äáº¥t nÆ°á»c máº·t
+										trá»i má»c. Mong ráº±ng nhá»¯ng tin tá»©c thu ÄÆ°á»£c tá»«
+										website sáº½ giÃºp Ã­ch cho báº¡n vÃ  luÃ´n Äá»ng hÃ nh
+										cÃ¹ng báº¡n trong hÃ nh trÃ¬nh khÃ¡m phÃ¡ Nháº­t Báº£n.&nbsp;<br>
+											&nbsp; 
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+				<div class="clr"></div>
+			</div>
+		</div>
+		<div id="footer">
+			<div class="main-content">
+				<p class="fl">
+					Copyright &copy; 2017. <span>VinaEnter Edu</span> giá»¯ toÃ n
+					quyá»n.
+				</p>
+				<div class="search fl">&nbsp;</div>
+				<div class="backtotop fr">
+					<a href="#totop" title="">Vá» Äáº§u trang</a>
+				</div>
+				<div class="clr"></div>
+			</div>
+		</div>
+
+	</div>
+</body>
+</html>

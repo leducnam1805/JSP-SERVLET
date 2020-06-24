@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="/views/BT1/inc/header.jsp" %>
+			<div class="content">
+				<div class="leftpanel">
+					<%@include file="/views/BT1/inc/leftbanner.jsp" %>
+				</div>
+				<div class="rightpanel">
+					<div class="rightbody">
+						<h1 class="title">Giá»i thiá»u vá» chÃºng tÃ´i</h1>
+						<p>
+							<strong>VinaEnter</strong> thiáº¿t káº¿ website theo chuáº©n W3C, thÃ´ng minh vÃ  tá»i Æ°u hÃ³a google: 
+							GiÃºp cho Google tÃ¬m tháº¥y nhá»¯ng ná»i dung trang web cá»§a báº¡n dá» hÆ¡n, 
+							nhanh hÆ¡n vá»i thá»© háº¡ng cao. Website táº£i NHANH, giao diá»n Äáº¸P, 
+							quáº£n trá» Dá» DÃNG, THÃN THIá»N vá»i ngÆ°á»i dÃ¹ng. TÃ­ch há»£p cung cá»¥ thÃ´ng minh, 
+							nháº­n biáº¿t khÃ¡ch hÃ ng Äang muá»n gÃ¬, Äá» ÄÆ°a ra chiáº¿n lÆ°á»£c bÃ¡n hÃ ng phÃ¹ há»£p.<br /><br />
+						</p>
+						<p>
+							Giáº£i phÃ¡p quáº£ng bÃ¡ thÆ°Æ¡ng hiá»u, marketing online tÄng lÆ°á»£ng truy cáº­p, 
+							ÄÆ°a khÃ¡ch hÃ ng tiá»m nÄng tá»i website. KhÃ¡m bá»nh website, Äáº©y hÃ ng loáº¡t tá»« khÃ³a 
+							tiá»m nÄng lÃªn TOP GOOGLE, tÄng nhanh doanh sá» bÃ¡n hÃ ng!
+						</p>
+					</div>
+				</div>
+			</div>
+<%@ include file="/views/BT1/inc/footer.jsp"%>
